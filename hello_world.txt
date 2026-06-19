@@ -1,1 +1,2 @@
-HalLo, guten tag. 
+HalLo, guten tag.
+Testing Git commit on VSCodium.
